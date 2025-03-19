@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+langchain
+beautifulsoup4
+requests
+transformers
+torch
+serpapi
+google-search-results
